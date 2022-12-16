@@ -3,12 +3,14 @@ ___
 東京国際工科専門職大学の１期生です。Python
 
 ## 経験・知識
+<details><summary>言語</summary>
 ・Python<br>
 ・Java<br>
 ・C<br>
 ・Github<br>
 ・Linux<br>
-
+</details>
+  
 <details><summary>インターン</summary>
 ・日本電信電話株式会社<br>
 ・株式会社百代<br>
@@ -20,7 +22,6 @@ ___
 ・ITパスポート<br>
 ・日商簿記3級<br>
 </details>
-
 
 ## その他
 <details><summary>趣味</summary>
