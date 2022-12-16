@@ -3,6 +3,12 @@ ___
 東京国際工科専門職大学の１期生です。Python
 
 ## 経験・知識
+・Python<br>
+・Java<br>
+・C<br>
+・Github<br>
+・Linux<br>
+
 <details><summary>インターン</summary>
 ・日本電信電話株式会社<br>
 ・株式会社百代<br>
