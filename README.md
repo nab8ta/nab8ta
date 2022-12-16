@@ -18,6 +18,7 @@ ___
 
 ## その他
 <details><summary>趣味</summary>
+・旅行<br>
 ・映画鑑賞<br>
 ・サイクリング<br>
 ・株式投資<br>
