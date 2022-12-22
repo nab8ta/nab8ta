@@ -7,9 +7,10 @@ ___
 ・Python<br>
 ・Java<br>
 ・C<br>
+</details>
+
 ・Github<br>
 ・Linux<br>
-</details>
   
 <details><summary>インターン</summary>
 ・日本電信電話株式会社<br>
